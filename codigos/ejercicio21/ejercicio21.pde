@@ -4,7 +4,7 @@ int altoEscalon=60;
 
 public void setup(){
   size(500,500);
-  background(#ADABB4);
+  background(#D8D8D6);
   puntoA= new PVector(0, altoEscalon);  
   
   while (puntoA.y < height){
